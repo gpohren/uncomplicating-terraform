@@ -5,6 +5,8 @@ YouTube: [youtube.com/linuxtips](https://youtube.com/linuxtips)<br />
 LinkedIn: [linkedin.com/company/linuxtips](https://linkedin.com/company/linuxtips/)<br />
 Twitter: [twitter.com/linuxtipsbr](https://twitter.com/LINUXtipsBR)
 
+Project to create instances using Terraform.
+
 ## Documentation
 
 [https://terraform.io/docs/providers/aws/index.html](https://terraform.io/docs/providers/aws/index.html)
