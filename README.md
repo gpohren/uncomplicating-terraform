@@ -1,8 +1,8 @@
 # Uncomplicating Terraform 
 
-Course: [linuxtips.io](https://www.linuxtips.io/product-page/descomplicando-o-terraform)<br />
-YouTube: [youtube.com/linuxtips](https://www.youtube.com/linuxtips)<br />
-LinkedIn: [linkedin.com/company/linuxtips](https://www.linkedin.com/company/linuxtips/)<br />
+Course: [linuxtips.io](https://linuxtips.io/product-page/descomplicando-o-terraform)<br />
+YouTube: [youtube.com/linuxtips](https://youtube.com/linuxtips)<br />
+LinkedIn: [linkedin.com/company/linuxtips](https://linkedin.com/company/linuxtips/)<br />
 Twitter: [twitter.com/linuxtipsbr](https://twitter.com/LINUXtipsBR)
 
 ## Documentation
