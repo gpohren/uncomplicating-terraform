@@ -36,7 +36,7 @@ terraform plan -out plan
 Apply
 
 ```bash
-terraform apply "plan"
+terraform apply plan
 ```
 
 Destroy
