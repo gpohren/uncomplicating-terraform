@@ -30,13 +30,13 @@ terraform init
 Plan
 
 ```bash
-terraform apply
+terraform plan -out plan
 ```
 
 Apply
 
 ```bash
-terraform apply
+terraform apply "plan"
 ```
 
 Destroy
