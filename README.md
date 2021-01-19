@@ -15,6 +15,36 @@ AWS Secret Access Key [None]:
 Default region name [None]:
 Default output format [None]:
 ```
-## Documentation
+## Documentation AWS CLI
 
-https://docs.aws.amazon.com/cli/index.html
+[https://docs.aws.amazon.com/cli/index.html](https://docs.aws.amazon.com/cli/index.html)
+
+## Terraform commands
+
+Initialize
+
+```bash
+terraform init
+```
+
+Plan
+
+```bash
+terraform apply
+```
+
+Apply
+
+```bash
+terraform apply
+```
+
+Destroy
+
+```bash
+terraform destroy
+```
+
+## Documentation Basic CLI Features
+
+[https://www.terraform.io/docs/commands/index.html](https://www.terraform.io/docs/commands/index.html)
