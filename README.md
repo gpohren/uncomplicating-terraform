@@ -2,9 +2,11 @@
 
 Project to create instances using Terraform.
 
+[LINUXtips - Uncomplicating Terraform](https://www.linuxtips.io/product-page/descomplicando-o-terraform)
+
 ## Documentation AWS Provider
 
-[https://terraform.io/docs/providers/aws/index.html](https://terraform.io/docs/providers/aws/index.html)
+[AWS Provider](https://terraform.io/docs/providers/aws/index.html)
 
 ## Usage AWS CLI
 
@@ -17,7 +19,7 @@ Default output format [None]:
 ```
 ## Documentation AWS CLI
 
-[https://docs.aws.amazon.com/cli/index.html](https://docs.aws.amazon.com/cli/index.html)
+[AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/index.html)
 
 ## Terraform commands
 
@@ -47,4 +49,4 @@ terraform destroy
 
 ## Documentation Basic CLI Features
 
-[https://www.terraform.io/docs/commands/index.html](https://www.terraform.io/docs/commands/index.html)
+[Basic CLI Features](https://www.terraform.io/docs/commands/index.html)
